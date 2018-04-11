@@ -1,4 +1,4 @@
-package com;
+package com.appestan.points2view;
 
 import android.content.Context;
 import android.graphics.Canvas;
